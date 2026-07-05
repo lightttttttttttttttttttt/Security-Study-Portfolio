@@ -19,7 +19,15 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 
 ## Roadmap & Tiến độ
 
-### Tuần 1: Networking & Linux CLI
+### CyberJutsu Courses
+| Khóa học | Trạng thái | Ghi chú |
+|:---|:---:|:---|
+| Web Penetration Testing 101 | ⬜ | — |
+| Web Penetration Testing 102 | ⬜ | — |
+| CVE Analysis | ⬜ | — |
+| Web Pentest (Demo) | ⬜ | — |
+
+### OSCP Prep — Tuần 1: Networking & Linux CLI
 | Chủ đề | Trạng thái | Tài liệu |
 |:---|:---:|:---|
 | L1 — Physical Layer | ✅ Xong | [L1-Physical-Layer.md](Week-01-Networking/L1-Physical-Layer.md) |
@@ -27,21 +35,21 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 | L3 & L4 — Network & Transport | ⬜ | — |
 | Linux CLI (permissions, pipes, SUID, awk/sed) | ⬜ | — |
 
-### Tuần 2: Coding & SQL Injection
+### OSCP Prep — Tuần 2: Coding & SQL Injection
 | Chủ đề | Trạng thái | Tài liệu |
 |:---|:---:|:---|
 | Python & Exploit Code Reading | ⬜ | — |
 | Bash Scripting (ping sweep, port scanner) | ⬜ | — |
 | SQL & SQLi (Union, Blind, scripting) | ⬜ | — |
 
-### Tuần 3: Recon & Web Exploitation
+### OSCP Prep — Tuần 3: Recon & Web Exploitation
 | Chủ đề | Trạng thái | Tài liệu |
 |:---|:---:|:---|
 | Recon & Scanning (Nmap, Gobuster, Ffuf) | ⬜ | — |
 | Web Exploitation (LFI/RFI, Log Poisoning) | ⬜ | — |
 | Win32 Buffer Overflow | ⬜ | — |
 
-### Tuần 4: Mock Tests & Interview
+### OSCP Prep — Tuần 4: Mock Tests & Interview
 | Chủ đề | Trạng thái | Tài liệu |
 |:---|:---:|:---|
 | HTB/TryHackMe Box Methodology | ⬜ | — |
