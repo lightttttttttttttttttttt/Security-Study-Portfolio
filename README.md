@@ -32,7 +32,11 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 |:---|:---:|:---|
 | L1 — Physical Layer | ✅ Xong | [L1-Physical-Layer.md](Week-01-Networking/L1-Physical-Layer.md) |
 | L2 — Data Link Layer | ✅ Xong | [L2-Data-Link-Layer.md](Week-01-Networking/L2-Data-Link-Layer.md) |
-| L3 & L4 — Network & Transport | ⬜ | — |
+| L3 — Network (IP, ICMP, Subnetting) | ⬜ | — |
+| L4 — Transport (TCP, UDP, Flow Control) | ⬜ | — |
+| L5 — Session | ⬜ | — |
+| L6 — Presentation | ⬜ | — |
+| L7 — Application (HTTP, DNS, DHCP, FTP) | ⬜ | — |
 | Linux CLI (permissions, pipes, SUID, awk/sed) | ⬜ | — |
 
 ### OSCP Prep — Tuần 2: Coding & SQL Injection
