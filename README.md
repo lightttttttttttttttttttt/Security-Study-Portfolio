@@ -1,23 +1,23 @@
-# 🛡️ Security Study Portfolio
+# Security Study Portfolio
 
 > Ghi chép quá trình tự học **Cyber Security** — hướng **SOC Tier 3** & **OSCP Prep**.  
 > Bởi **Nguyễn Duy Quang** (HE181202) — Sinh viên năm 4, FPT University Hà Nội.
 
 ---
 
-## 📋 Giới thiệu
+## Giới thiệu
 
 Repository này lưu lại toàn bộ kiến thức, ghi chú, và bài tập thực hành trong quá trình ôn luyện.  
 Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 
 **Định hướng:**
-- 🎯 Lộ trình SOC Tier 3 (Incident Responder / Threat Hunter)
-- 📝 Ôn tập OSCP (4-Week Prep Plan)
-- 🔬 Application Security
+- Lộ trình SOC Tier 3 (Incident Responder / Threat Hunter)
+- Ôn tập OSCP (4-Week Prep Plan)
+- Application Security
 
 ---
 
-## 🗺️ Roadmap & Tiến độ
+## Roadmap & Tiến độ
 
 ### Tuần 1: Networking & Linux CLI
 | Chủ đề | Trạng thái | Tài liệu |
@@ -49,7 +49,7 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 
 ---
 
-## 📂 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```
 .
@@ -63,7 +63,7 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 
 ---
 
-## 🛠️ Background
+## Background
 
 - **Thực tập:** V2Secure (NOC/SOC operation) — giám sát hệ thống, phân tích WAF logs, báo cáo sự cố.
 - **Chuyên ngành:** Information Security, định hướng Application Security.
