@@ -36,7 +36,7 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 | L4 — Transport (TCP, UDP, Flow Control) | ✅ Xong | [L4-Transport-Layer.md](Week-01-Networking/L4-Transport-Layer.md) |
 | L5 — Session | ✅ Xong | [L5-Session-Layer.md](Week-01-Networking/L5-Session-Layer.md) |
 | L6 — Presentation | ✅ Xong | [L6-Presentation-Layer.md](Week-01-Networking/L6-Presentation-Layer.md) |
-| L7 — Application (HTTP, DNS, DHCP, FTP) | ⬜ | — |
+| L7 — Application (HTTP, DNS, DHCP, FTP) | ✅ Xong | [L7-Application-Layer.md](Week-01-Networking/L7-Application-Layer.md) |
 | Linux CLI (permissions, pipes, SUID, awk/sed) | ⬜ | — |
 
 ### OSCP Prep — Tuần 2: Coding & SQL Injection
@@ -72,7 +72,8 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
     ├── L3-Network-Layer.md
     ├── L4-Transport-Layer.md
     ├── L5-Session-Layer.md
-    └── L6-Presentation-Layer.md
+    ├── L6-Presentation-Layer.md
+    └── L7-Application-Layer.md
 ```
 
 > Thư mục mới sẽ được thêm theo tiến trình học.
