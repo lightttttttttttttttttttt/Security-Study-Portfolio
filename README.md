@@ -37,7 +37,8 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 | L5 — Session | ✅ Xong | [L5-Session-Layer.md](Week-01-Networking/L5-Session-Layer.md) |
 | L6 — Presentation | ✅ Xong | [L6-Presentation-Layer.md](Week-01-Networking/L6-Presentation-Layer.md) |
 | L7 — Application (HTTP, DNS, DHCP, FTP) | ✅ Xong | [L7-Application-Layer.md](Week-01-Networking/L7-Application-Layer.md) |
-| Linux CLI (permissions, pipes, SUID, awk/sed) | ⬜ | — |
+| Networking Interview Cheatsheet | ✅ Xong | [Networking-Interview-Cheatsheet.md](Week-01-Networking/Networking-Interview-Cheatsheet.md) |
+| Linux CLI (permissions, pipes, SUID, awk/sed) | ✅ Xong | [Linux-CLI-For-Hackers.md](Week-01-Networking/Linux-CLI-For-Hackers.md) |
 
 ### OSCP Prep — Tuần 2: Coding & SQL Injection
 | Chủ đề | Trạng thái | Tài liệu |
@@ -73,7 +74,9 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
     ├── L4-Transport-Layer.md
     ├── L5-Session-Layer.md
     ├── L6-Presentation-Layer.md
-    └── L7-Application-Layer.md
+    ├── L7-Application-Layer.md
+    ├── Linux-CLI-For-Hackers.md
+    └── Networking-Interview-Cheatsheet.md
 ```
 
 > Thư mục mới sẽ được thêm theo tiến trình học.
@@ -82,10 +85,11 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 
 ## Background
 
-- **Thực tập:** V2Secure (NOC/SOC operation) — giám sát hệ thống, phân tích WAF logs, báo cáo sự cố.
-- **Chuyên ngành:** Information Security, định hướng Application Security.
+- **Thực tập:** V2Secure. Xuất phát điểm ở Phòng Hạ tầng, đóng vai trò **Pioneer** xây dựng quy trình SOC (Incident Response, Forms).
+- **Kinh nghiệm:** Monitor Health/Security (ESXi, 2x WAF, SIEM, PAM, NIPS). Có kỹ năng viết script tự động hóa (PowerShell MD5/DNS Resolver).
+- **Chuyên môn Sâu:** Malware Analysis (CAPE Sandbox, FLARE VM, REMnux, Ghidra, Volatility 3) và Network Routing/Switching (CCNA v7 Packet Tracer Labs).
 - **Công cụ thường dùng:** Wireshark, Nmap, Burp Suite, Python, Linux CLI.
 
 ---
 
-*Cập nhật lần cuối: 2026-07-05*
+*Cập nhật lần cuối: 2026-07-09*
