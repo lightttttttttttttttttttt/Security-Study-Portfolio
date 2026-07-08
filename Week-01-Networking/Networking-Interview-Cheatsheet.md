@@ -60,8 +60,13 @@
 - **Câu hỏi phỏng vấn:** "TLS nằm ở tầng mấy và mã hóa payload như thế nào?"
 - **Đáp án:** TLS nằm ở L6 (Presentation), mã hóa toàn bộ phần Header của HTTP và Payload. Attacker bắt được gói tin chỉ thấy data bị xáo trộn (thường là rác hoặc Base64). 
 - **Bypass:** Attacker hay dùng kỹ thuật **SSL Stripping** (ép HTTPS xuống HTTP để đọc trộm clear-text).
+- **Trọng tâm Web Pentest:** Thuộc lòng HTTP Status Codes (`200 OK`, `301/302 Redirect`, `401/403 Lỗi Phân quyền`, `500 Server Error` - mỏ vàng SQLi). Chú ý các HTTP Headers bị ẩn.
 
-### 3.3. Base64
+### 3.3. DNS (Domain Name System - Port 53)
+- **Hay hỏi:** "Tại sao DNS dùng UDP nhưng có lúc lại dùng TCP?"
+- **Đáp án:** Bình thường dùng UDP cho lẹ. Nhưng khi thực hiện **Zone Transfer** (AXFR - đồng bộ toàn bộ database tên miền giữa 2 máy chủ DNS), gói tin cực to nên bắt buộc chuyển sang TCP. Pentester rất thích AXFR vì nếu cấu hình sai, sẽ lộ sạch Subdomain của mục tiêu.
+
+### 3.4. Base64 & Obfuscation
 - Thường xuyên gặp trong log (PowerShell, Malware). Đặc điểm nhận dạng: Chuỗi text ngẫu nhiên có chữ/số/kí tự đặc biệt và **kết thúc bằng dấu `=` hoặc `==`**.
 
 ---
